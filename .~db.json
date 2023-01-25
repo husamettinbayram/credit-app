@@ -1,0 +1,32 @@
+{
+  "customers": [
+    {
+      "id": 1673780946415,
+      "No": 510214,
+      "name": "Armas Kompresör",
+      "address": "İzmir Türkiye",
+      "phone": "0332 333 33 33",
+      "debtAtStart": 0,
+      "debt": 39178
+    },
+    {
+      "id": 1673781136660,
+      "No": 240784,
+      "name": "Orsan Otomotiv",
+      "address": "İstanbul Türkiye",
+      "phone": "0212 444 1 111",
+      "debtAtStart": 0,
+      "debt": 230000
+    },
+    {
+      "id": 1673781489923,
+      "No": 978627,
+      "name": "FSS Otomotiv",
+      "address": "Bursa Türkiye",
+      "phone": "0224 3131321",
+      "debtAtStart": 0,
+      "debt": 0
+    }
+  ],
+  "items": []
+}
