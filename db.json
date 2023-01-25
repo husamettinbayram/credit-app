@@ -26,7 +26,34 @@
       "phone": "0224 3131321",
       "debtAtStart": 0,
       "debt": 0
+    },
+    {
+      "id": 1674668729424,
+      "No": 408751,
+      "name": "Dönmez Otomotiv",
+      "address": "istanbul türkiye",
+      "phone": "56789",
+      "debtAtStart": 0,
+      "debt": 20000
     }
   ],
-  "items": []
+  "items": [
+    {
+      "buyer": "Dönmez Otomotiv",
+      "buyerId": 1674668729424,
+      "id": 1674668811328,
+      "createdYear": 2023,
+      "createdMonth": 1,
+      "createdDay": 25,
+      "createdHour": 20,
+      "createdMinute": 46,
+      "createdSecond": 51,
+      "stockNo": 9876,
+      "name": "clutch roller bearing",
+      "price": 200,
+      "units": 100,
+      "total": 20000,
+      "unitName": "pieces"
+    }
+  ]
 }
