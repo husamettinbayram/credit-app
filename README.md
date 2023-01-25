@@ -3,5 +3,5 @@
 <h3>json-server uses localhost:4000</h3>
 <h3> command :  npm run sunucu</h3>
 
-![](ScreenCapture.gif)
+
 ![](ScreenCapture.gif)
